@@ -14,3 +14,8 @@ Answer: While both Merging and Rebasing integrate changes from one branch into
 another, resulting in the same final code, they handle this differently. Merging 
 preserves the full branching history while Rebasing rewrites the history for a 
 cleaner, linear history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Just learning new things in general. I'm already happy I got to learn more
+git stuff :))
