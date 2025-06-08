@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Anything. For example, data science can be applied to social media to create better algorithms for users.
