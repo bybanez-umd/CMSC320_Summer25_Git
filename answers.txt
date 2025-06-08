@@ -4,5 +4,13 @@ Answer: working with fwends :) <33
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Anything. For example, data science can be applied to social media to create better algorithms for users.
+Answer: Anything. For example, data science can be applied to social media to create 
+better algorithms for users.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: While both Merging and Rebasing integrate changes from one branch into 
+another, resulting in the same final code, they handle this differently. Merging 
+preserves the full branching history while Rebasing rewrites the history for a 
+cleaner, linear history.
